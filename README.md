@@ -1,4 +1,4 @@
-# Soft Skills – Comprehensive MCQ Quiz
+# Soft Skills – MCQ Quiz
 
 > Covers all 8 sessions: Critical Thinking & Problem Solving · Decision Making · Emotional Intelligence · Team Building · Motivation · Conflict Resolution · Work-Life Balance & Wellbeing · Time & Stress Management (so far)
 > The remaining sections will be added when available 
