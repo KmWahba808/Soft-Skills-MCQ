@@ -1342,3 +1342,371 @@
 ---
 
 *End of Quiz — 145 Questions across 8 Topics*
+
+---
+
+## Section 9 – Maintaining a Professional Online Image
+
+**Q146. What is your "Professional Online Image"?**
+
+- [ ] A. Only your LinkedIn profile and CV
+- [x] B. How you are perceived on the internet through your posts, profiles, interactions, and digital activity
+- [ ] C. The number of followers and connections you have on social media
+- [ ] D. A formal document submitted to employers describing your digital skills
+
+---
+
+**Q147. What is a "Personal Brand" in the context of professional online presence?**
+
+- [ ] A. A logo or visual identity you create for social media
+- [x] B. The unique combination of skills, experiences, values, and personality that you consistently present online — what sets you apart
+- [ ] C. The number of endorsements you have on LinkedIn
+- [ ] D. A paid advertisement promoting your professional services
+
+---
+
+**Q148. What is an "Online Reputation"?**
+
+- [ ] A. The privacy settings you configure on your social accounts
+- [x] B. How others perceive you based on your digital footprint — everything you post, share, comment on, or are tagged in
+- [ ] C. Your follower count across all social media platforms
+- [ ] D. A formal review given by employers after checking your social media
+
+---
+
+**Q149. What is a "Digital Footprint"?**
+
+- [ ] A. A PDF version of your CV shared online
+- [x] B. The trail of data you leave behind while using the internet, including posts, comments, likes, shares, photos, and even private messages
+- [ ] C. A record of websites you have visited stored in your browser
+- [ ] D. The number of times your profile has been viewed by recruiters
+
+---
+
+**Q150. According to the session, why does your professional online image matter?**
+
+- [ ] A. It determines how many social media ads you will see
+- [ ] B. It is only relevant once you have been hired
+- [x] C. Employers and recruiters regularly check social media before hiring, and it builds credibility and trust
+- [ ] D. It replaces the need for a formal CV or cover letter
+
+---
+
+**Q151. Which of the following is a DO for maintaining a professional online image?**
+
+- [ ] A. Post when angry or emotional to show authenticity
+- [x] B. Use a professional headshot for profiles
+- [ ] C. Send the same generic connection request to everyone
+- [ ] D. Share company information publicly to demonstrate transparency
+
+---
+
+**Q152. Which of the following is a DON'T for maintaining a professional online image?**
+
+- [ ] A. Responding promptly to messages and comments
+- [ ] B. Keeping profiles public and professional
+- [x] C. Posting when angry, emotional, or impaired
+- [ ] D. Regularly updating your portfolio and skills
+
+---
+
+**Q153. Which of the following is a DON'T regarding usernames and emails?**
+
+- [ ] A. Customizing your LinkedIn URL to include your name
+- [x] B. Using unprofessional usernames or email addresses
+- [ ] C. Including a professional headline in your profile
+- [ ] D. Proofreading everything before posting
+
+---
+
+**Q154. What is an "Online Portfolio"?**
+
+- [ ] A. A private folder of documents stored in cloud storage
+- [x] B. A digital showcase of your work, skills, and achievements — such as a website, blog, LinkedIn profile, or digital portfolio platform
+- [ ] C. A list of references and contact information shared with recruiters
+- [ ] D. A collection of job applications submitted online
+
+---
+
+**Q155. Which platform is specifically mentioned for DEVELOPERS to showcase their work?**
+
+- [ ] A. Behance
+- [ ] B. LinkedIn
+- [x] C. GitHub
+- [ ] D. WordPress
+
+---
+
+**Q156. Which platform is specifically mentioned for CREATIVES to showcase their work?**
+
+- [x] A. Behance
+- [ ] B. GitHub
+- [ ] C. Google Sites
+- [ ] D. WordPress
+
+---
+
+**Q157. Which of the following should be included in an online portfolio?**
+
+- [ ] A. Personal photos and social life content
+- [ ] B. A list of all jobs you applied for
+- [x] C. Professional bio, certifications, work samples, and testimonials
+- [ ] D. Your full salary history and expectations
+
+---
+
+**Q158. Which strategy is recommended when using social media for job searching?**
+
+- [ ] A. Directly message recruiters asking for a job immediately
+- [x] B. Network authentically — don't just ask for jobs; offer value
+- [ ] C. Keep your profile completely private to appear selective
+- [ ] D. Only post when you have a new certification to share
+
+---
+
+**Q159. Which of the following is a common ONLINE SCAM mentioned in the session?**
+
+- [ ] A. A recruiter asking for your LinkedIn URL
+- [x] B. Fake job offers asking for payment
+- [ ] C. A company asking for your CV as a PDF
+- [ ] D. A professional asking to connect with a personalized message
+
+---
+
+**Q160. Which online safety measure is recommended in the session?**
+
+- [x] A. Use strong, unique passwords and enable two-factor authentication
+- [ ] B. Keep all accounts on public settings so recruiters can find you easily
+- [ ] C. Accept all connection requests to grow your network quickly
+- [ ] D. Use the same password across platforms for easier access
+
+---
+
+**Q161. "Think before you post — would you say this face-to-face?" is a tip related to:**
+
+- [ ] A. Building your personal brand through content creation
+- [x] B. Protecting yourself online and maintaining professionalism
+- [ ] C. Optimizing your LinkedIn profile for recruiter searches
+- [ ] D. Creating an eye-catching headline
+
+---
+
+**Q162. In the LinkedIn profile checklist, what makes a good Professional Headshot?**
+
+- [ ] A. A casual selfie in a natural setting to show personality
+- [x] B. A high-quality, well-lit photo with a simple background, professional dress, and eye contact
+- [ ] C. A group photo to show you are a team player
+- [ ] D. A creative or artistic photo to stand out from other candidates
+
+---
+
+**Q163. In the LinkedIn checklist, what is the purpose of the Eye-Catching Headline?**
+
+- [ ] A. To list only your current job title
+- [x] B. To go beyond your degree by including keywords recruiters search for and your professional interests (e.g., "Computer Science Student | Aspiring Data Analyst | Python Enthusiast")
+- [ ] C. To write a short paragraph about your personal goals
+- [ ] D. To list all your certifications in one line
+
+---
+
+**Q164. What is the recommended length for the LinkedIn About/Summary section?**
+
+- [ ] A. One sentence that summarizes your role
+- [ ] B. A full-page detailed biography
+- [x] C. 3–5 short paragraphs that are concise but engaging
+- [ ] D. A bullet-point list of all your skills
+
+---
+
+**Q165. According to the LinkedIn checklist, what is the purpose of "Adding Media" to the About section?**
+
+- [x] A. To upload or link to projects, presentations, or portfolios as visual proof of your work to build credibility
+- [ ] B. To add profile pictures and cover images
+- [ ] C. To embed a video of yourself presenting your CV
+- [ ] D. To attach downloadable versions of your resume for recruiters
+
+---
+
+**Q166. What does "Optimizing for Keywords" on LinkedIn mean?**
+
+- [ ] A. Paying for LinkedIn Premium to appear at the top of searches
+- [ ] B. Using hashtags in every post to gain visibility
+- [x] C. Including words from job descriptions you are targeting in your headline, summary, and experience sections to appear in recruiter searches
+- [ ] D. Connecting with as many people as possible to increase your profile ranking
+
+---
+
+**Q167. What is the "Featured Section" on LinkedIn used for?**
+
+- [ ] A. Displaying your most recent status updates
+- [x] B. Pinning your best work — portfolio links, certifications, or key projects — as prime real estate on your profile
+- [ ] C. Listing your education history at the top of the profile
+- [ ] D. Showcasing companies you follow and are interested in
+
+---
+
+**Q168. What is the "Open to Work" feature on LinkedIn?**
+
+- [ ] A. A badge that shows you are actively recruiting others
+- [ ] B. A setting that makes your full profile visible to everyone
+- [x] C. A feature that signals you are seeking new opportunities — can be set to visible only to recruiters — where you specify job types, locations, and industries
+- [ ] D. A status update that announces your job search to all your connections
+
+---
+
+**Q169. Which of the following is listed as a "What to Avoid" mistake on LinkedIn?**
+
+- [ ] A. Joining LinkedIn groups related to your field
+- [ ] B. Requesting recommendations from professors or supervisors
+- [x] C. Using LinkedIn like Facebook by oversharing personal details
+- [ ] D. Customizing your connection requests with a personal note
+
+---
+
+**Q170. The session's final key message about your online image is:**
+
+- [ ] A. Having the most connections is the most important factor
+- [ ] B. A professional image is only needed when actively job hunting
+- [x] C. Your online image is your digital resume — once something is online it's hard to erase, so think before you post and be intentional about your presence
+- [ ] D. Only LinkedIn matters; other social media platforms have no impact on your career
+
+---
+
+---
+
+## Section 10 – Fit for Work
+
+**Q171. What does "Fit for Work" mean according to the session?**
+
+- [ ] A. Being physically strong and healthy enough to handle manual labor
+- [x] B. Possessing the physical, mental, and emotional capabilities to perform a job effectively, safely, and consistently — including soft skills, professionalism, and self-awareness
+- [ ] C. Having all the required technical certifications for your role
+- [ ] D. Passing a medical examination before starting employment
+
+---
+
+**Q172. What is the difference between Technical Skills and Soft Skills?**
+
+- [ ] A. Technical skills are learned at university; soft skills are learned from experience
+- [x] B. Technical skills are job-specific knowledge and abilities (e.g., engineering, software use), while soft skills are interpersonal and behavioral skills crucial for workplace success
+- [ ] C. Soft skills are more important than technical skills in every profession
+- [ ] D. Technical skills include communication and teamwork; soft skills include coding and design
+
+---
+
+**Q173. According to the session, how quickly are first impressions formed?**
+
+- [ ] A. Within 1–2 minutes of meeting someone
+- [ ] B. After a full conversation is complete
+- [x] C. Judgments form within 7–30 seconds, and character assessments within 4 minutes
+- [ ] D. Within 10 minutes of observing behavior
+
+---
+
+**Q174. Which of the following is listed as a basis for first impressions?**
+
+- [x] A. Appearance, attitude, punctuality, and confidence
+- [ ] B. Job title, salary, and years of experience
+- [ ] C. Academic grades and technical certifications
+- [ ] D. Social media profile and number of connections
+
+---
+
+**Q175. Which of the following is a tip for making a GOOD first impression at work?**
+
+- [ ] A. Wait to be asked before taking any initiative
+- [ ] B. Focus on showcasing only your technical skills
+- [x] C. Show a positive attitude, be punctual, be willing to learn, and be proactive
+- [ ] D. Dress casually to appear approachable and relaxed
+
+---
+
+**Q176. How is "Professionalism" defined in the session?**
+
+- [ ] A. Wearing formal clothing and using polite language
+- [x] B. The combination of responsibility, ethics, teamwork, communication, interpersonal skills, and problem-solving
+- [ ] C. Having a high level of technical expertise in your field
+- [ ] D. Following all company rules and policies without question
+
+---
+
+**Q177. Which of the following is listed as a Key Professional Trait in the session?**
+
+- [ ] A. Ambition and competitiveness
+- [ ] B. Flexibility in working hours
+- [x] C. Integrity, accountability, empathy, and discretion
+- [ ] D. Speed and efficiency above all else
+
+---
+
+**Q178. In a Personal SWOT Analysis, what do STRENGTHS represent?**
+
+- [x] A. Internal positive qualities (e.g., strong work ethic, adaptability)
+- [ ] B. External opportunities you can leverage from the environment
+- [ ] C. Internal areas that need improvement
+- [ ] D. External challenges that could hinder your progress
+
+---
+
+**Q179. In a Personal SWOT Analysis, what do WEAKNESSES represent?**
+
+- [ ] A. External threats from competitors or the economy
+- [x] B. Internal areas for improvement (e.g., procrastination, fear of failure)
+- [ ] C. Internal positive qualities you should highlight
+- [ ] D. External resources you can use to grow
+
+---
+
+**Q180. In a Personal SWOT Analysis, what do OPPORTUNITIES represent?**
+
+- [ ] A. Internal strengths that make you stand out
+- [ ] B. Personal challenges or bad habits to overcome
+- [x] C. External factors you can leverage (e.g., training courses, networking events)
+- [ ] D. External risks that could negatively affect your career
+
+---
+
+**Q181. In a Personal SWOT Analysis, what do THREATS represent?**
+
+- [ ] A. Internal weaknesses you need to address
+- [ ] B. Positive external events that support your goals
+- [ ] C. Internal skills and qualities you have
+- [x] D. External challenges you may face (e.g., economic instability, strong competition)
+
+---
+
+**Q182. What is the purpose of conducting a Personal SWOT Analysis?**
+
+- [ ] A. To compare yourself to colleagues and identify who is most qualified
+- [x] B. To become more self-aware and identify what makes you "fit for work" by assessing internal qualities and external factors
+- [ ] C. To create a formal report for your employer about your performance
+- [ ] D. To list all your certifications and technical achievements
+
+---
+
+**Q183. Which of the following correctly classifies "fear of failure" in a Personal SWOT Analysis?**
+
+- [ ] A. Strength
+- [x] B. Weakness
+- [ ] C. Opportunity
+- [ ] D. Threat
+
+---
+
+**Q184. Which of the following correctly classifies "strong competition in the job market" in a Personal SWOT Analysis?**
+
+- [ ] A. Weakness
+- [ ] B. Opportunity
+- [x] C. Threat
+- [ ] D. Strength
+
+---
+
+**Q185. Which of the following correctly classifies "an available training course in your field" in a Personal SWOT Analysis?**
+
+- [ ] A. Strength
+- [ ] B. Weakness
+- [x] C. Opportunity
+- [ ] D. Threat
+
+---
