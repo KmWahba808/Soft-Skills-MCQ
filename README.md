@@ -1,5 +1,23 @@
 # Soft Skills – MCQ Quiz
 
+## Table of Contents
+
+| Section | Topic | Questions |
+|---------|-------|-----------|
+| Section 1 | Team Building | Q1 – Q20 |
+| Section 2 | Conflict Resolution | Q21 – Q34 |
+| Section 3 | Emotional Intelligence | Q35 – Q51 |
+| Section 4 | Work-Life Balance & Wellbeing | Q52 – Q65 |
+| Section 5 | Decision Making | Q66 – Q86 |
+| Section 6 | Critical Thinking & Problem Solving | Q87 – Q110 |
+| Section 7 | Maintaining a Professional Online Image | Q111 – Q135 |
+| Section 8 | Fit for Work | Q136 – Q150 |
+| Section 9 | Motivation | Q151 – Q164 |
+| Section 10 | Time & Stress Management | Q165 – Q185 |
+| Section 11 | Presentation Skills | Q186 – Q215 |
+
+---
+
 ## Section 1 – Team Building
 
 **Q1. What is the key difference between a GROUP and a TEAM?**
@@ -1700,5 +1718,279 @@
 - [ ] B. Stress has no positive effects on performance
 - [x] C. Moderate stress can improve performance, while too much reduces productivity
 - [ ] D. Too little stress always leads to better focus and efficiency
+
+---
+
+---
+
+## Section 11 – Presentation Skills
+
+**Q186. Which of the following is a reason presentation skills matter specifically for engineers and technical professionals?**
+
+- [ ] A. To entertain audiences with humor and storytelling
+- [x] B. To explain complex concepts clearly to non-experts and secure stakeholder buy-in
+- [ ] C. To replace written reports entirely
+- [ ] D. To demonstrate artistic ability through slide design
+
+---
+
+**Q187. What does the "P" in the PASS Framework stand for?**
+
+- [x] A. Purpose
+- [ ] B. Preparation
+- [ ] C. Performance
+- [ ] D. Participation
+
+---
+
+**Q188. In the PASS Framework, the "PURPOSE" element asks the presenter to define which of the following?**
+
+- [ ] A. The audience's demographic background
+- [ ] B. The number of slides to prepare
+- [x] C. Whether the goal is to Inform, Persuade, Convince, Inspire, or Entertain
+- [ ] D. The venue and equipment needed
+
+---
+
+**Q189. In the PASS Framework, the "AUDIENCE" element requires the presenter to:**
+
+- [ ] A. Choose the appropriate font and color scheme
+- [x] B. Research the audience's level, interests, expectations, and demographics
+- [ ] C. Prepare a backup plan for technical failures
+- [ ] D. Limit the number of slides to ten
+
+---
+
+**Q190. In the PASS Framework, which element focuses on organizing content using Intro → Body → Conclusion?**
+
+- [ ] A. Purpose
+- [ ] B. Audience
+- [x] C. Structure
+- [ ] D. Style
+
+---
+
+**Q191. In the PASS Framework, the "STYLE" element involves:**
+
+- [ ] A. Deciding how many points to cover in the body
+- [ ] B. Researching the audience's background
+- [ ] C. Defining whether the goal is to inform or persuade
+- [x] D. Matching delivery tone, language, and energy to the audience and purpose
+
+---
+
+**Q192. What percentage of the total presentation time should the Opening/Introduction ideally take?**
+
+- [ ] A. 5%
+- [x] B. 10%
+- [ ] C. 20%
+- [ ] D. 30%
+
+---
+
+**Q193. What percentage of the total presentation time should the Body occupy?**
+
+- [ ] A. 50%
+- [ ] B. 60%
+- [x] C. 80%
+- [ ] D. 90%
+
+---
+
+**Q194. Which of the following is a recommended technique for opening a presentation?**
+
+- [ ] A. Apologizing for nerves before starting
+- [ ] B. Reading the agenda slide aloud
+- [x] C. Starting with a startling statement, statistic, or thought-provoking question
+- [ ] D. Thanking the organizers for ten minutes
+
+---
+
+**Q195. What does the "T" in the TEEL Method stand for?**
+
+- [x] A. Topic — state the main idea clearly
+- [ ] B. Time — manage your pacing
+- [ ] C. Transition — connect between slides
+- [ ] D. Technique — choose your delivery style
+
+---
+
+**Q196. In the TEEL Method, what is the role of the "E" (Example) component?**
+
+- [ ] A. Briefly clarify or expand on the main idea
+- [ ] B. Connect the point back to the central message
+- [x] C. Provide evidence, data, or a case study to support the point
+- [ ] D. State the main idea of the slide
+
+---
+
+**Q197. In the TEEL Method, what does the "L" (Link) component require the presenter to do?**
+
+- [ ] A. List all supporting evidence
+- [ ] B. Explain the technical background
+- [ ] C. Introduce the next slide
+- [x] D. Connect the point back to the central message
+
+---
+
+**Q198. According to the session, how many main points should a presentation be limited to for maximum clarity?**
+
+- [ ] A. 1–2
+- [ ] B. 2–3
+- [x] C. 3–5
+- [ ] D. 6–8
+
+---
+
+**Q199. For a presentation aimed "To Inspire," how should the conclusion be structured?**
+
+- [ ] A. Recap key points
+- [ ] B. Restate the major benefit or use a quote
+- [ ] C. Call to action + benefit
+- [x] D. Issue a challenge or appeal to higher values
+
+---
+
+**Q200. According to the session, verbal delivery (the actual words spoken) accounts for what percentage of overall presentation impact?**
+
+- [ ] A. 38%
+- [ ] B. 20%
+- [ ] C. 55%
+- [x] D. 7%
+
+---
+
+**Q201. Body language accounts for what percentage of non-verbal impact in a presentation?**
+
+- [ ] A. 7%
+- [ ] B. 38%
+- [x] C. 55%
+- [ ] D. 93%
+
+---
+
+**Q202. Voice tone accounts for what percentage of overall presentation impact?**
+
+- [ ] A. 7%
+- [x] B. 38%
+- [ ] C. 55%
+- [ ] D. 20%
+
+---
+
+**Q203. What is the recommended duration of eye contact per person during a presentation?**
+
+- [ ] A. 1–2 seconds
+- [x] B. 3–5 seconds
+- [ ] C. 6–8 seconds
+- [ ] D. 10 seconds or more
+
+---
+
+**Q204. Which of the following is listed as something to AVOID in verbal and non-verbal delivery?**
+
+- [ ] A. Varying pace for emphasis
+- [ ] B. Using open gestures with palms visible
+- [x] C. Reading slides word-for-word
+- [ ] D. Maintaining a confident posture
+
+---
+
+**Q205. According to slide design best practices, how many bullet points per slide is the recommended limit?**
+
+- [ ] A. 1–3
+- [x] B. 3–7
+- [ ] C. 8–10
+- [ ] D. As many as needed to cover the content
+
+---
+
+**Q206. What is the maximum number of colors recommended in a consistent slide color scheme?**
+
+- [ ] A. 3
+- [ ] B. 4
+- [x] C. 5
+- [ ] D. 7
+
+---
+
+**Q207. Which of the following fonts is recommended for slide design?**
+
+- [ ] A. Comic Sans
+- [x] B. Arial or Calibri
+- [ ] C. Papyrus or Brush Script
+- [ ] D. Old English Text
+
+---
+
+**Q208. What is the core rule about slides stated in the session?**
+
+- [ ] A. Slides should contain all the information the speaker will say
+- [ ] B. Slides should be printed and distributed before the talk
+- [x] C. Slides are a visual aid, not a script — you are the presentation
+- [ ] D. Slides must follow a single fixed template for all presentations
+
+---
+
+**Q209. Which quality of a great presenter involves "reading the room and adjusting tone and energy accordingly"?**
+
+- [ ] A. Clarity & Vision
+- [x] B. Emotional Intelligence
+- [ ] C. Adaptability
+- [ ] D. Integrity & Authenticity
+
+---
+
+**Q210. Which quality of a great presenter is described as "handling technical issues or unexpected audience questions smoothly"?**
+
+- [ ] A. Empowerment
+- [ ] B. Clarity & Vision
+- [x] C. Adaptability
+- [ ] D. Emotional Intelligence
+
+---
+
+**Q211. Which technical preparation step should be completed BEFORE the presentation?**
+
+- [x] A. Test equipment and have a backup (USB copy, printed notes, or cloud access)
+- [ ] B. Turn off phone notifications mid-presentation
+- [ ] C. Drink water after the first question
+- [ ] D. Ask the audience to save questions for the end
+
+---
+
+**Q212. According to the Slide Design Rubric, what does the "Clarity" criterion ask?**
+
+- [ ] A. Is the slide visually appealing and on-brand?
+- [ ] B. Does every element support the central message?
+- [x] C. Can the audience grasp the point in 5 seconds?
+- [ ] D. Is there minimal text and maximal visual impact?
+
+---
+
+**Q213. Which of the following is a recommended TRANSITION phrase during a presentation?**
+
+- [ ] A. "As I said before…"
+- [ ] B. "I forgot to mention earlier…"
+- [x] C. "Moving on to…" or "Now let's consider…"
+- [ ] D. "Sorry, let me go back to the previous slide…"
+
+---
+
+**Q214. What is the recommended fix for the common mistake of "running over time"?**
+
+- [ ] A. Skip the conclusion entirely
+- [ ] B. Read slides faster
+- [x] C. Practice with a timer and cut content if needed
+- [ ] D. Avoid taking audience questions
+
+---
+
+**Q215. Which of the following is a continuous improvement strategy for presenters mentioned in the session?**
+
+- [ ] A. Avoid presenting until you feel fully confident
+- [ ] B. Only present to large audiences to build experience quickly
+- [x] C. Record yourself to watch for verbal fillers and body language issues
+- [ ] D. Rely on written scripts to eliminate errors
 
 ---
